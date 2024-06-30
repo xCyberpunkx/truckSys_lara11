@@ -9,7 +9,7 @@ TruckSys is a Laravel 11 application designed for managing trucks. It includes f
 - Add, edit, view, and delete trucks
 - User authentication
 - Responsive design with Bootstrap
-- Laravel 11 framework
+- Laravel  framework
 
 ## Requirements
 
